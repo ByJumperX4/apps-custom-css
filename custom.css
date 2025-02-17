@@ -1,0 +1,68 @@
+* {
+    font-family: 'BigBlueTermPlus Nerd Font' !important;
+    font-weight: normal !important;
+    font-size: 12px !important;
+    text-shadow: none !important;
+    border-radius: 0px !important; 
+    text-rendering: optimizeLegibility !important;
+    --label-font-weight: 0 !important;
+}
+
+
+
+:root {
+    --my-bg-color: #15110e;
+    --my-brightbg-color: #201c19;
+    --my-brighterbg-color: #3a322c;
+    --my-fg-color: #edd19a;
+    --my-nonfg-color: #c7af81;
+    --my-white-color: #d7d0c2;
+    --my-col-color: #e3963e;
+    --my-err-color: #bf3f34;
+    --my-green:#5d9716;
+    --my-yellow:#ffae00;
+    --my-red:#bf3f34;
+    --my-purple:#6a2a81;
+
+    letter-spacing: 0ch !important;
+    --border-width: 4px !important;
+    --white: var(--my-white-color);
+    --bg-brand: var(--my-brighterbg-color);
+    --bg-0: var(--my-bg-color);
+    --bg-1: var(--my-brightbg-color);
+    --bg-2: var(--my-col-color);
+    --bg-3: var(--my-brightbg-color);
+
+    --hover: var(--my-brighterbg-color);
+    --active: var(--my-brightbg-color);
+
+    --txt-dark: var(--my-bg-color);
+    --txt-link: var(--my-col-color);
+    --txt-0: var(--my-bg-color);
+    --txt-1: var(--my-fg-color);
+    --txt-2: var(--my-fg-color);
+    --txt-3: var(--my-nonfg-color);
+
+    --acc-0: var(--my-col-color);
+    --acc-1: var(--my-fg-color);
+    --acc-2: var(--my-nonfg-color);
+
+    --button-filled-brand-text: var(--my-bg-color);
+
+    --online-dot: var(--my-green);
+    --idle-dot: var(--my-yellow);
+    --dnd-dot: var(--my-red);
+    --streaming-dot: var(--my-purple);
+
+    --pink: var(--my-col-color);
+    --pink-1: var(--my-col-color);
+    --pink-2: var(--my-col-color);
+    --purple: var(--my-col-color);
+    --purple-1: var(--my-col-color);
+    --purple-2: var(--my-col-color);
+    --cyan: var(--my-col-color);
+    --yellow: var(--my-col-color);
+    --green: var(--my-col-color);
+    --green-1: var(--my-col-color);
+    --green-2: var(--my-col-color);
+}
