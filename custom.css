@@ -1,11 +1,6 @@
 * {
     font-family: 'MonaspiceKr Nerd Font' !important;
-    font-weight: normal !important;
-    font-size: 14px !important;
-    text-shadow: none !important;
     border-radius: 0px !important; 
-    text-rendering: optimizeLegibility !important;
-    --label-font-weight: 0 !important;
 }
 
 
@@ -24,7 +19,6 @@
     --my-red:#bf3f34;
     --my-purple:#6a2a81;
 
-    letter-spacing: 0ch !important;
     --border-width: 4px !important;
     --white: var(--my-white-color);
     --bg-brand: var(--my-brighterbg-color);
