@@ -1,7 +1,6 @@
-# discord-custom-css
+# apps-custom-css
 
-Some CSS for discord (Vencord/Equicord)
+Some CSS for apps I use
 
-I use this with
+For discord, I use this with Google emojis
 `https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Google.css`
-Google emojis :3
