@@ -1,0 +1,32 @@
+{
+    "name": "Matey",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#7ac04a",
+        "accent": "#7ac04a",
+        "primary-color": "#4ac08b",
+        "warning-color": "#baba5cd9",
+        "alert": "#baba5cd9",
+
+        "sidebar-color": "#1a221a",
+        "roomlist-background-color": "#2d3326",
+        "roomlist-text-color": "#e0f5c0",
+        "roomlist-text-secondary-color": "#8b9d7a",
+        "roomlist-highlights-color": "#50615052",
+        "roomlist-separator-color": "#4a5a3a",
+
+        "timeline-background-color": "#1a261a",
+        "timeline-text-color": "#e0f5c0",
+        "secondary-content": "#e0f5c0",
+        "tertiary-content": "#e0f5c0",
+        "timeline-text-secondary-color": "#b0d590",
+        "timeline-highlights-color": "#121a1212",
+
+        "reaction-row-button-selected-bg-color": "#5a9d3a",
+        "menu-selected-color": "#5a9d3a",
+        "focus-bg-color": "#5a9d3a",
+        "room-highlight-color": "#5a9d3a",
+        "other-user-pill-bg-color": "#5a9d3a",
+        "togglesw-off-color": "#6e7d5a"
+    }
+}
