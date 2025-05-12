@@ -8,14 +8,14 @@
         "warning-color": "#baba5cd9",
         "alert": "#baba5cd9",
 
-        "sidebar-color": "#1a221a",
-        "roomlist-background-color": "#2d3326",
+        "sidebar-color": "#2d3326",
+        "roomlist-background-color": "#2a322a",
         "roomlist-text-color": "#e0f5c0",
         "roomlist-text-secondary-color": "#8b9d7a",
         "roomlist-highlights-color": "#50615052",
         "roomlist-separator-color": "#4a5a3a",
 
-        "timeline-background-color": "#1a261a",
+        "timeline-background-color": "#1a221a",
         "timeline-text-color": "#e0f5c0",
         "secondary-content": "#e0f5c0",
         "tertiary-content": "#e0f5c0",
