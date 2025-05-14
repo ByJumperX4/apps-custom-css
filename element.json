@@ -1,32 +1,61 @@
 {
     "name": "Matey",
     "is_dark": true,
+    "fonts": {
+        "faces": [
+            {
+                "font-family": "MonaspiceKr Nerd Font"
+            }
+        ],
+        "general": "MonaspiceKr Nerd Font, sans",
+        "monospace": "MonaspiceKr Nerd Font Mono"
+    },
     "colors": {
         "accent-color": "#7ac04a",
         "accent": "#7ac04a",
         "primary-color": "#4ac08b",
         "warning-color": "#baba5cd9",
         "alert": "#baba5cd9",
-
+        
         "sidebar-color": "#2d3326",
-        "roomlist-background-color": "#2a322a",
+        "roomlist-background-color": "#2d3326",
         "roomlist-text-color": "#e0f5c0",
         "roomlist-text-secondary-color": "#8b9d7a",
         "roomlist-highlights-color": "#50615052",
         "roomlist-separator-color": "#4a5a3a",
-
+        
         "timeline-background-color": "#1a221a",
         "timeline-text-color": "#e0f5c0",
         "secondary-content": "#e0f5c0",
         "tertiary-content": "#e0f5c0",
         "timeline-text-secondary-color": "#b0d590",
         "timeline-highlights-color": "#121a1212",
-
+        
         "reaction-row-button-selected-bg-color": "#5a9d3a",
         "menu-selected-color": "#5a9d3a",
         "focus-bg-color": "#5a9d3a",
         "room-highlight-color": "#5a9d3a",
+        "togglesw-off-color": "#6e7d5a",
         "other-user-pill-bg-color": "#5a9d3a",
-        "togglesw-off-color": "#6e7d5a"
+        
+        "username-colors": [
+            "#8bd04a",
+            "#d6502b",
+            "#baba5c",
+            "#7ac04a",
+            "#4ac08b",
+            "#8ae0b0",
+            "#2395b5",
+            "#8b8aa4"
+        ],
+        "avatar-background-colors": [
+            "#7ac04a",
+            "#8b8aa4",
+            "#4ac08b"
+        ]
+    },
+    "compound": {
+        "--cpd-color-icon-accent-tertiary": "#5a9d3a",
+        "--cpd-color-text-action-accent": "#7ac04a"
     }
 }
