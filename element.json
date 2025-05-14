@@ -52,8 +52,11 @@
             "#7ac04a",
             "#8b8aa4",
             "#4ac08b"
-        ],
-        
+        ]
+    },
+    "compound": {
+        "--cpd-color-icon-accent-tertiary": "#5a9d3a",
+        "--cpd-color-text-action-accent": "#7ac04a",
         "--cpd-color-theme-bg": "#1a221a",
 
         "--cpd-color-gray-100": "#0f170f",
@@ -145,9 +148,5 @@
         "--cpd-color-purple-1200": "#eaeaff",
         "--cpd-color-purple-1300": "#f5f5ff",
         "--cpd-color-purple-1400": "#fafaff"
-    },
-    "compound": {
-        "--cpd-color-icon-accent-tertiary": "#5a9d3a",
-        "--cpd-color-text-action-accent": "#7ac04a"
     }
 }
