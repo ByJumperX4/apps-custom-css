@@ -56,7 +56,6 @@
         
         "--cpd-color-theme-bg": "#1a221a",
 
-        // Grays
         "--cpd-color-gray-100": "#0f170f",
         "--cpd-color-gray-200": "#1a221a",
         "--cpd-color-gray-300": "#2d3326",
@@ -72,7 +71,6 @@
         "--cpd-color-gray-1300": "#e0f5c0",
         "--cpd-color-gray-1400": "#f5fae5",
 
-        // Reds
         "--cpd-color-red-100": "#3a0a05",
         "--cpd-color-red-200": "#4a1005",
         "--cpd-color-red-300": "#5a1a0a",
@@ -88,7 +86,6 @@
         "--cpd-color-red-1300": "#ffede5",
         "--cpd-color-red-1400": "#fff5f0",
 
-        // Greens
         "--cpd-color-green-100": "#0f170f",
         "--cpd-color-green-200": "#1a221a",
         "--cpd-color-green-300": "#2d3326",
@@ -104,7 +101,6 @@
         "--cpd-color-green-1300": "#eaffd5",
         "--cpd-color-green-1400": "#f5ffe0",
 
-        // Blues 
         "--cpd-color-blue-100": "#0a1715",
         "--cpd-color-blue-200": "#1a2623",
         "--cpd-color-blue-300": "#2a3d35",
@@ -120,7 +116,6 @@
         "--cpd-color-blue-1300": "#daffea",
         "--cpd-color-blue-1400": "#eafff5",
 
-        // Yellows
         "--cpd-color-yellow-100": "#2a2a0a",
         "--cpd-color-yellow-200": "#3a3a1a",
         "--cpd-color-yellow-300": "#4a4a2a",
@@ -136,7 +131,6 @@
         "--cpd-color-yellow-1300": "#faffd5",
         "--cpd-color-yellow-1400": "#ffffe0",
 
-        // Purples
         "--cpd-color-purple-100": "#1a1a2a",
         "--cpd-color-purple-200": "#2a2a3a",
         "--cpd-color-purple-300": "#3a3a4a",
