@@ -4,11 +4,11 @@
     "fonts": {
         "faces": [
             {
-                "font-family": "MonaspiceKr Nerd Font"
+                "font-family": "DepartureMono Nerd Font Propo"
             }
         ],
-        "general": "MonaspiceKr Nerd Font, Noto Color Emoji, sans",
-        "monospace": "MonaspiceKr Nerd Font Mono"
+        "general": "DepartureMono Nerd Font Propo, Noto Color Emoji, sans",
+        "monospace": "DepartureMono Nerd Font Mono"
     },
     "colors": {
         "accent-color": "#b32809",
