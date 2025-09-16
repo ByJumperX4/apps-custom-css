@@ -1,9 +1,8 @@
 @import url('https://raw.githubusercontent.com/refact0r/midnight-discord/refs/heads/master/themes/midnight.theme.css');
 
 * {
-    font-family: 'DepartureMono Nerd Font Propo' !important;
-    font-size: 11px !important;
-    font-weight: normal !important;
+    font-family: '0xProto Nerd Font Propo' !important;
+    font-size: 10.5px !important;
     border-radius: 0px !important; 
 }
 
@@ -12,11 +11,11 @@
 
     /* text colors - warm tones like e0f5c0 */
     --text-0: #0b0a07;
-    --text-1: #faedc8;
-    --text-2: #e8e0b5;
-    --text-3: #d6d3a2;
-    --text-4: #c4c690;
-    --text-5: #b2b97e;
+    --text-1: #c8faf0;
+    --text-2: #bdf2e8;
+    --text-3: #a8e8dc;
+    --text-4: #93ded0;
+    --text-5: #7ed4c4;
 
     /* background colors - much darker */
     --bg-1: #0b0a07;
