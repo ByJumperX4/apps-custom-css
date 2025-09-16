@@ -7,8 +7,8 @@
                 "font-family": "DepartureMono Nerd Font Propo"
             }
         ],
-        "general": "DepartureMono Nerd Font Propo, Noto Color Emoji, sans",
-        "monospace": "DepartureMono Nerd Font Mono"
+        "general": "0xProto Nerd Font Propo, Noto Color Emoji, sans",
+        "monospace": "0xProto Nerd Font Mono"
     },
     "colors": {
         "accent-color": "#b32809",
@@ -18,14 +18,14 @@
         "alert": "#b38b09",
         "sidebar-color": "#0f0e09",
         "roomlist-background-color": "#0f0e09",
-        "roomlist-text-color": "#faedc8",
+        "roomlist-text-color": "#c8faf0",
         "roomlist-text-secondary-color": "#b2b97e",
         "roomlist-highlights-color": "#b3280952",
         "roomlist-separator-color": "#3a3629",
         "timeline-background-color": "#0b0a07",
-        "timeline-text-color": "#faedc8",
-        "secondary-content": "#faedc8",
-        "tertiary-content": "#faedc8",
+        "timeline-text-color": "#c8faf0",
+        "secondary-content": "#c8faf0",
+        "tertiary-content": "#c8faf0",
         "timeline-text-secondary-color": "#e8e0b5",
         "timeline-highlights-color": "#0f0e0912",
         "reaction-row-button-selected-bg-color": "#8a1f07",
